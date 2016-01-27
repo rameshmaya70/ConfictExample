@@ -17,8 +17,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+<<<<<<< .merge_file_2H37Nj
     NSLog(@"SecondRevert");
+=======
     NSLog(@"Revert commit");
+>>>>>>> .merge_file_AYu94o
     return YES;
 }
 
