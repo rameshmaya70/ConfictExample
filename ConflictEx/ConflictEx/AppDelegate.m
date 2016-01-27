@@ -19,6 +19,8 @@
     // Override point for customization after application launch.
     NSLog(@"SecondRevert");
     NSLog(@"Revert commit");
+    
+    
     return YES;
 }
 
